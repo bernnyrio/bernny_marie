@@ -1,0 +1,15 @@
+<doctype html>
+<html>
+<head>
+
+<title> HOME </title>
+</head>
+<header>
+</header>
+<img src= "cupcake.jpg" width="500" height="600">
+<body>" A Delicious Little Bite of Joy: Enjoy a Cupcake Today!"
+<p> Cupcakes are delicious treats that come in a variety of fun flavors and delicious decorations.Whether you're looking to bake your own
+cupcakes from scratch or just top a store-bought mix,cupcakes can make a great treat for any special occasion.With a variety of frostings,fillings
+and decorative sprinkles,you'll be sure to find the perfect cupcake for your needs.Cupcakes make an ideal dessert for parties and special evnts!. <p>
+</body>
+</html>
